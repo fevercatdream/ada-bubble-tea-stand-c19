@@ -1,0 +1,11 @@
+# DO NOT MODIFY THIS FILE
+
+# Begin the challenge by opening the main.py file
+# in the Files view to the left. If the Files view is
+# not already visible, click the top icon in the column
+# of icons on the left, which resembles a sheet of paper
+# with a bent corner.
+
+tea_base = "rose"
+add_ons = []
+loyalty_discount = False
